@@ -67,3 +67,8 @@
 	path = OCA/pms
 	url = git@github.com:OCA/pms.git
 	branch = 15.0
+
+[submodule "OCA/queue"]
+	path = OCA/queue
+	url = git@github.com:OCA/queue.git
+	branch = 15.0
