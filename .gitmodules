@@ -2,3 +2,8 @@
 	path = OCA/apps-store
 	url = git@github.com:OCA/apps-store.git
 	branch = 15.0
+
+[submodule "OCA/wms"]
+	path = OCA/wms
+	url = git@github.com:OCA/wms.git
+	branch = 15.0
