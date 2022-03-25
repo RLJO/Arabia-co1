@@ -87,3 +87,8 @@
 	path = OCA/donation
 	url = git@github.com:OCA/donation.git
 	branch = 15.0
+
+[submodule "RLJO/Arabia-co1"]
+	path = RLJO/Arabia-co1
+	url = git@github.com:RLJO/Arabia-co1.git
+	branch = app-app_pos_superbar
